@@ -85,6 +85,12 @@ whoami
 ```bash
    sudo apt update
 ````
+
+### Ubuntu Install Java
+ ```bash
+   apt install openjdk-21-jdk
+ ```
+
 ### Check current directory
 
 ```bash
