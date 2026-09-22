@@ -107,6 +107,15 @@ whoami
  ```bash
  systemctl status jenkins
 ```
+
+### Jenkein setUp with AWS 
+ ```bash 
+ root@ip-172-31-8-121:~# cat /var/lib/jenkins/secrets/initialAdminPassword
+
+83c02525803944648bbde78c9a60f160
+
+```
+
 ### Check current directory
 
 ```bash
