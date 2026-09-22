@@ -103,6 +103,10 @@ whoami
    sudo apt install jenkins
 ```
 
+### Jenkein status Check with ubuntu 
+ ```bash
+ systemctl status jenkins
+```
 ### Check current directory
 
 ```bash
