@@ -81,6 +81,10 @@ root
 whoami
 ```
 
+### Ubuntu Software OR Package Update
+```bash
+   sudo apt update
+````
 ### Check current directory
 
 ```bash
