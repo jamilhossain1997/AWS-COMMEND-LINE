@@ -90,7 +90,10 @@ whoami
  ```bash
    apt install openjdk-21-jdk
  ```
-
+### Ubuntu Install Python
+```bash
+   python3 -m hhtp.server 8000
+```
 ### Ubuntu Install Jenkein
 
 ```
